@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\bin\Debug\net6.0\DZ1proga2.exe
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\bin\Debug\net6.0\DZ1proga2.deps.json
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\bin\Debug\net6.0\DZ1proga2.runtimeconfig.json
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\bin\Debug\net6.0\DZ1proga2.dll
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\bin\Debug\net6.0\DZ1proga2.pdb
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.AssemblyInfo.cs
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.dll
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\refint\DZ1proga2.dll
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.pdb
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\DZ1proga2.genruntimeconfig.cache
+C:\Users\nikit\source\repos\SamoilovSemester2laba3\DZ1proga2\obj\Debug\net6.0\ref\DZ1proga2.dll

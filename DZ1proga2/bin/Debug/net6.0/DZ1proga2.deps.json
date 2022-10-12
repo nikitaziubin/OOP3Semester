@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DZ1proga2/1.0.0": {
+        "runtime": {
+          "DZ1proga2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ1proga2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
